@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>加</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-415.000000, -656.000000)">
+            <g id="功能图标" transform="translate(79.000000, 590.000000)"></g>
+            <g id="加" transform="translate(415.000000, 656.000000)">
+                <rect id="矩形" fill="#FFFFFF" opacity="0" x="0" y="0" width="46" height="46"></rect>
+                <path d="M10.1428571,21 L35.8571429,21 C37.0406102,21 38,21.8954305 38,23 C38,24.1045695 37.0406102,25 35.8571429,25 L10.1428571,25 C8.95938982,25 8,24.1045695 8,23 C8,21.8954305 8.95938982,21 10.1428571,21 Z"
+                      id="路径" fill="#000000"></path>
+                <path d="M25,10.1428571 L25,35.8571429 C25,37.0406102 24.1045695,38 23,38 C21.8954305,38 21,37.0406102 21,35.8571429 L21,10.1428571 C21,8.95938982 21.8954305,8 23,8 C24.1045695,8 25,8.95938982 25,10.1428571 Z"
+                      id="路径" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

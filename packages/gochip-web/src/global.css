@@ -1,0 +1,523 @@
+.NavBarAtributes {
+  height: 60px;
+  line-height: 26px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 15px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+.NavbarContent{
+  margin-top:  20px;
+  margin-left: 80px
+}
+
+.copyRightRow{
+  background-color: rgba(14, 144, 253, 1);
+}
+
+.nav-link{
+  color:rgba(16, 16, 16, 1);
+}
+
+.MainPageBackGroundImage{
+  width: 100%;
+  height: 650px;
+  margin-top: -15px;
+  filter: blur(3px);
+}
+
+.AppStoreImage{
+  width: 160px;
+  height: 54px;
+  border-radius: 4px;
+  background-color: black;
+  margin-left: 20%;
+}
+.GooglePlayImage{
+  width: 160px;
+  height: 54px;
+  border-radius: 4px;
+  background-color: black;
+  margin-left: 30px;
+}
+
+.GoChipDesc{
+  height: 100px;
+  line-height: 20px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 14px;
+  text-align: center;
+  font-family: Roboto;
+  margin-bottom: 30px;
+}
+
+.BelowMainImageDescription{
+  height: 150px;
+  background-color: rgba(0, 144, 253, 1);
+}
+
+.BelowMainImageDescriptionLabel{
+  height: 24px;
+  line-height: 23px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  text-align: left;
+  font-family: Roboto;
+  margin-left: 60px;
+  margin-Top: -50px ;
+}
+.BelowMainImageDescriptionText{
+  height: 24px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  text-align: left;
+  font-family: Roboto;
+  margin-left: 60px;
+}
+
+.GoChipDescHeading{
+  width: 638px;
+  height: 56px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-right: 80px;
+}
+.FreeInjectionHeader{
+  height: 56px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: left;
+  font-family: Roboto;
+  margin-top: -55px;
+}
+
+.mobileAppDescText{
+  height: 80px;
+  line-height: 20px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 14px;
+  text-align: left;
+  font-family: Roboto;
+  margin-bottom: 100px;
+}
+
+.mobileAppDescContainer{
+  margin-top: 150px;
+}
+.mobileAppDescIcons{
+  width: 50px;
+  height: 50px;
+  color: rgba(14, 144, 253, 1);
+  margin-left: -80px;
+  /* margin-top: 80px; */
+}
+.RecommendationsRow{
+  height: 450px;
+  margin-top: 40px;
+  background-color: rgba(56, 73, 83, 1);
+}
+.mobileAppLinkBackGroundImage{
+  width: 100%;
+  height: 660px;
+  margin-top: 60px;
+}
+
+.userStoryCardContainer{
+  width: 356px;
+  height: 422px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid rgba(237, 237, 237, 1);
+  margin-left: 90px
+}
+
+.UserStoryImage{
+  width: 356px;
+  height: 240px;
+}
+
+.userStoryTitle{
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  height: 20px;
+  line-height: 20px;
+  color: rgba(14, 144, 253, 1);
+  font-size: 14px;
+  font-family: Roboto;
+}
+.userStoryDesc{
+  margin-left :20px;
+  width: 303px;
+  height: 57px;
+  line-height: 19px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 13px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+.userStoryDate{
+  margin-left :20px;
+  width: 124px;
+  height: 20px;
+  line-height: 19px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 13px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+.userStoriesHeading{
+  margin-left: 10%;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  height: 60px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+.userStoryReadMore{
+  margin-bottom: 10px;
+  padding-right: 40px;
+  text-align: right;
+  height: 20px;
+  line-height: 19px;
+  color: rgba(14, 144, 253, 1);
+  font-size: 13px;
+  font-family: Roboto;
+}
+.userStoryRow{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1340px;
+  /* background-color:red; */
+}
+
+.subscriptionHeading{
+  margin-top: 50px;
+  margin-bottom: 60px;
+  height: 56px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.subscriptionHeadingText{
+  height: 40px;
+  line-height: 20px;
+  color:white;
+  font-size: 14px;
+  text-align: center;
+  font-family: Roboto;
+  margin-bottom: 50px;
+}
+
+.subscriptionPackageContainer{
+  margin-left: 90px;
+  height: 554px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0);
+  box-shadow: 0px 0px 26px -10px rgba(0, 0, 0, 0.25);
+}
+
+
+.subscriptionPackageContainerStandard{
+  margin-left: 90px;
+  height: 554px;
+  line-height: 20px;
+  background-color: rgba(14, 144, 253, 1);
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0);
+  box-shadow: 0px 0px 26px -10px rgba(0, 0, 0, 0.25);
+}
+
+.SubpackageDesc{
+  width: 140px;
+  height: 108px;
+  line-height: 19px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 13px;
+  text-align: center;
+  font-family: Roboto;
+  margin-left: 110px;
+  margin-top: 50px;
+}
+
+.SubpackageDescStandard{
+  width: 140px;
+  height: 108px;
+  line-height: 19px;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  font-family: Roboto;
+  margin-left: 110px;
+  margin-top: 50px;
+}
+
+.SubPackageHeading{
+  height: 36px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.SubPackageAmount{
+  height: 90px;
+  line-height: 90px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 50px;
+  text-align: center;
+  font-family: Roboto;
+  margin-bottom: 20px;
+}
+
+.SubPackageTrial{
+  height: 46px;
+  line-height: 19px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 13px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.SubPackageTrialStandard{
+  height: 46px;
+  line-height: 19px;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.TeamContainer{
+  margin-left: 90px;
+  height: 360px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.TeamImage{
+  margin-top: 40px;
+  width: 360px;
+  height: 360px;
+}
+
+.TeamMainContainer{
+  margin-top: 80px;
+  height: 740px;
+  background-color: rgba(56, 73, 83, 1);;
+}
+
+.GoChipHeading{
+  margin-top: 40px;
+  height: 56px;
+  line-height: 35px;
+  color:  rgba(255, 255, 255, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+  margin-top: 100px;
+}
+
+.FaqHeading{
+  height: 56px;
+  line-height: 23px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 18px;
+  text-align: left;
+  font-family: Roboto;
+  margin-bottom: 15%;
+}
+
+.FaqText{
+  width: 452px;
+  height: 60px;
+  line-height: 20px;
+  color: rgba(119, 119, 119, 1);
+  font-size: 14px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+.FaqMainHeading{
+  margin-top: 90px;
+  height: 56px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+  margin-bottom: 100px;
+}
+
+.BackGroungImageContent{
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.BackGroungImageContentHeading{
+  line-height: 58px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 35px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.BackGroungImageContentText{
+  width: 266px;
+  line-height: 26px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  text-align: center;
+  font-family: Roboto;
+  margin-left: 37%;
+  padding-bottom: 50px;
+}
+
+.BackGroungImageContentButton2{
+  margin-left : 30px ;
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0) !important;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  font-family: Roboto;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+
+.ant-btn-primary{
+  width: 160px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: rgba(14, 144, 253, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.BelowMainImageIcons{
+  left: 145px;
+  margin-top: 50px;
+  width: 30px;
+  height: 50px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.AppScreenShotGroundImage{
+  width: 100%;
+  height: 650px;
+}
+
+.EasyToGetPetServiceHeading{
+  height: 56px;
+  line-height: 35px;
+  color: rgba(16, 16, 16, 1);
+  font-size: 24px;
+  text-align: left;
+  font-family: Roboto;
+  margin-top: -55px;
+  margin-bottom: 100px;
+}
+
+.Reccomendations{
+  width: 370px;
+  height: 40px;
+  line-height: 35px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  text-align: center;
+  font-family: Roboto;
+  margin-top: 70px;
+  margin-left: 38%;
+  margin-bottom: 7%;
+}
+.ReccomendationIcons{
+  width: 100px;
+  height: 100px;
+  color: rgba(255, 255, 255, 1);
+}
+.ReccomendationsText{
+  width: 195px;
+  height: 27px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 18px;
+  /* text-align: ; */
+  font-family: SourceHanSansSC-regular;
+  margin-left: -30px
+}
+
+.AppDownloadImageContent{
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: Roboto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.LearnMoreButtonText{
+  padding-bottom: 20px !important;
+}
+
+.teamLogo{
+  width: 243px;
+  height: 82px;
+  margin-top: 20%;
+  color: rgba(56, 73, 83, 1);
+}
+
+.teamLogoReccomandations{
+  width: 243px;
+  height: 82px;
+  margin-top: 4%;
+  color: rgba(56, 73, 83, 1);
+}
+
+.TeamComingSoon{
+  height: 21px;
+  margin-left: 20px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  font-family: SourceHanSansSC-regular;
+  text-align: center
+}
+
+.FaqMainContainer{
+  margin-top: 80px;
+  height: 740px;  
+  background-color: rgba(239, 239, 239, 1);
+}

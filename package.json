@@ -1,0 +1,72 @@
+{
+  "name": "gochip",
+  "version": "0.0.1",
+  "description": "gochip project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bootstrap": "lerna bootstrap",
+    "format": "prettier --write --ignore-path ./.prettierignore",
+    "format:all": "prettier --write --ignore-path ./.prettierignore ./packages/**/*.js",
+    "format:web": "prettier  packages/gochip-web/src/**/*.js --write --ignore-path ./.prettierignore",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unity-Labs-Development/gochip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unity-Labs-Development/gochip/issues"
+  },
+  "homepage": "https://github.com/Unity-Labs-Development/gochip#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.2.1",
+    "@commitlint/config-conventional": "^7.1.2",
+    "babel-eslint": "^10.0.1",
+    "conventional-changelog-cli": "^2.0.21",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.22.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^2.6.1",
+    "eslint-plugin-react": "^7.9.1",
+    "husky": "^2.2.0",
+    "lerna": "^3.14.1",
+    "lint-staged": "^8.1.6",
+    "prettier": "^1.17.0",
+    "tslint": "^5.16.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "lint-staged": {
+    "packages/**/*.{ts}": [
+      "npm run format",
+      "git add"
+    ],
+    "packages/**/*.{js,jsx}": [
+      "npm run format",
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

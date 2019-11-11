@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>shouchang_icon._default.png</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-181.000000, -864.000000)">
+            <g id="shouchang_icon._default.png" transform="translate(181.000000, 864.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                <path d="M19.3855483,9.57996377 C18.6203311,10.345181 17.3796689,10.345181 16.6144517,9.57996377 L14.1126984,7.07821049 C11.3417511,4.30726317 6.8491578,4.30726317 4.07821049,7.07821049 C1.30726317,9.8491578 1.30726317,14.3417511 4.07821049,17.1126984 L17.3502236,30.3847115 C17.7090852,30.7435731 18.2909148,30.7435731 18.6497764,30.3847115 L31.9217895,17.1126984 C34.6927368,14.3417511 34.6927368,9.8491578 31.9217895,7.07821049 C29.1508422,4.30726317 24.6582489,4.30726317 21.8873016,7.07821049 L19.3855483,9.57996377 Z"
+                      id="形状" stroke="#384953" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

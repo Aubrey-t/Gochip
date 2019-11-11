@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>forward_icon_gray.png</title>
+    <desc>Created with Sketch.</desc>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-481.000000, -591.000000)">
+            <g id="功能图标" transform="translate(79.000000, 590.000000)">
+                <g id="forward_icon_gray.png"
+                   transform="translate(425.000000, 24.000000) scale(-1, 1) translate(-425.000000, -24.000000) translate(402.000000, 1.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="46" height="46"></rect>
+                    <polygon id="路径" fill="#9B9B9B" fill-rule="nonzero"
+                             points="32.0086755 7.50207015 17.0041403 22.5066054 32.0013125 37.5037776 29.4992424 40.0058477 12 22.5066054 29.5066054 5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "name": "go-chip-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test",
+    "lint": "eslint --ext .js src mock tests"
+  },
+  "dependencies": {
+    "antd": "^3.20.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.7.0",
+    "react-router-dom": "^5.0.1",
+    "react-scrollchor": "^6.0.0",
+    "umi-plugin-react": "^1.9.14"
+  },
+  
+  "devDependencies": {
+    "eslint-config-umi": "^1.4.0",
+    "umi": "^2.7.7",
+    "umi-plugin-react": "^1.8.4"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
